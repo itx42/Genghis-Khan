@@ -1,0 +1,12 @@
+{
+  "timing": {
+    "offset": 0,
+    "bpm": 120
+  },
+  "judgment": {
+    "perfect": 42,
+    "great": 84,
+    "good": 108,
+    "miss": 125
+  }
+}
